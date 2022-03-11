@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-11T02:56:41" hostname="DESKTOP-9D126E1" time="0.032">
+  <properties/>
+  <testcase name="Si no es moroso se puede pagar" classname="Tests" time="0.012"/>
+  <testcase name="Si es moroso no se puede pagar" classname="Tests" time="0.0"/>
+  <testcase name="Si la deuda es chica se puede pagar" classname="Tests" time="0.0"/>
+  <testcase name="Si la deuda es grande no se puede pagar" classname="Tests" time="0.001"/>
+  <testcase name="Si la deuda es chica se puede pagar" classname="Tests" time="0.0"/>
+  <testcase name="Si la deuda es grande no se puede pagar" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
